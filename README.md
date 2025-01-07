@@ -2,7 +2,7 @@
 ### Financial Customer Segmentation Analysis
 
 ## Objective
-#### The primary goal of this project is to segment financial customers based on their transaction patterns and behaviours. This segmentation can enable businesses to derive actionable insights and tailor strategies for different customer groups.
+#### The primary goal of this project is to segment financial customers based on their transaction patterns and behaviours. This segmentation can enable businesses to discover actionable insights and tailor strategies for different customer groups.
 
 ## Data Analysis Process
 ### 1. Data Loading
